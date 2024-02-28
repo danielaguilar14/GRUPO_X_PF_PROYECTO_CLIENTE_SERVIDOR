@@ -1,0 +1,56 @@
+﻿Multihilos:
+● El sistema debe permitir múltiples sesiones activas de los clientes.
+● El sistema debe soportar múltiples solicitudes sin problemas.
+Encargado: Armando Solano
+
+
+Interfaz de usuario:
+● El uso debe realizarse por medio de una interfaz gráfica.
+● La interfaz para el uso del sistema debe ser desarrollada por medio de Java Swing.
+● Debe ser simple y agradable de utilizar.
+● Debe permitir la navegación entre opciones y funcionalidades.
+  ○ Esto implica que todo debe mostrarse de manera individual.
+  ○ No se permite que toda la información aparezca en el inicio de la aplicación.
+● Una vez que realiza una compra, la aplicación FideMotor App muestra una animación de carga que al finalizar muestra un mensaje de:
+  ○ “Felicidades por la compra de su nuevo: <Nombre del vehículo>”
+Encargado: Armando Solano
+
+
+Persistencia de los datos:
+● El sistema debe soportar la persistencia de la información.
+● Esto se debe realizar mediante la inclusión de la base de datos MySQL.
+● La información que se debe almacenar es:
+  ○ Usuarios.
+  ○ Inventario.
+  ○ Compras.
+  ○ Toda información necesaria para que el sistema funcione correctamente.
+● La información puede ser agregada, modificada y eliminada.
+Encargado: Jose Daniel Aguilar
+
+
+Sistema de gestión:
+● El sistema funciona bajo la arquitectura cliente-servidor.
+● El servidor gestionará las solicitudes de los clientes y comunicará la información necesaria a través de sockets.
+● Los clientes muestran la información solicitada y permiten realizar solicitudes.
+● Toda lógica de funcionalidad de negocio reside en el servidor.
+● El cliente se limita a solicitar y mostrar la información.
+Encargado:  Jose Daniel Aguilar
+
+
+IV. Documentación.
+Debe tomar en consideración que para este desarrollo debe agregar un documento de diseño donde indique y documente la planificación del proyecto
+Encargado: Encargado: Santiago Araya Alvarado
+
+
+Diseño:
+● Diagramas que faciliten la comprensión de la solución a realizar, este puede ser un diagrama de bloques general que muestre las partes de la solución.
+● Desglose de las partes del proyecto en requerimientos.
+● Descripción general de la solución, puede apoyarse con diagramas.
+● Diagrama de clases general para todas las partes del proyecto.
+Encargado: Santiago Araya Alvarado
+
+
+Planeamiento:
+● Debe agregar una sección de descripción de actividades para cada una de los requerimientos del proyecto.
+● Cronograma de desarrollo de proyecto, donde indique las fechas de entrega esperadas para cada uno de los requerimientos, las actividades y los responsables.
+Encargado:  Jose Daniel Aguilar
